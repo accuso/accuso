@@ -1,6 +1,6 @@
 Hi, I’m @accuso <br/>
 I’m interested in Frontend Development. <br/>
-I’m currently learning HTML/CSS/JavaScript.
+I’m currently learning JavaScript.
 
 
 <!---
