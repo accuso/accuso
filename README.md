@@ -1,4 +1,4 @@
-Hi, I’m @accuso <br/>
+Hi, my name is Roman <br/>
 I’m interested in Frontend Development. <br/>
 I’m currently learning JavaScript.
 
